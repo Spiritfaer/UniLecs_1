@@ -1,6 +1,7 @@
 # UniLecs_1
 
 The task: to write a function that checks whether all characters in the string occur once.
+
 Задача: написать функцию, ктр проверяет все ли символы в строке встречаются один раз.
 
 The function takes a string, and returns a positive response (1) if all of the characters in it are unique.
